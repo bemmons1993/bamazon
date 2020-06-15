@@ -17,12 +17,12 @@ Select * FROM products;
 
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) 
 VALUES (101, "boots", "soccer", 79.99, 20),
-	   (212, "jerseys", "basketball", 99.99, 10),
-	   (313, "helmet", "football", 29.99, 5),
-	   (420, "sweater", "hockey", 129.99, 14),
-	   (504, "pants", "football", 39.99, 15),
-	   (619, "shorts", "soccer", 19.99, 19),
-	   (720, "gloves", "baseball", 49.99, 11),
-	   (808, "bats", "baseball", 69.99, 10),
-	   (913, "pucks", "hockey", 9.99, 19),
-	   (1009, "shoes", "basketball", 89.99, 17)
+	   (201, "jerseys", "basketball", 99.99, 10),
+	   (301, "helmet", "football", 29.99, 5),
+	   (401, "sweater", "hockey", 129.99, 14),
+	   (501, "pants", "football", 39.99, 15),
+	   (601, "shorts", "soccer", 19.99, 19),
+	   (701, "gloves", "baseball", 49.99, 11),
+	   (801, "bats", "baseball", 69.99, 10),
+	   (901, "pucks", "hockey", 9.99, 19),
+	   (1001, "shoes", "basketball", 89.99, 17)
